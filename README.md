@@ -1,3 +1,3 @@
 # pong
 
-<img width="535" height="333" alt="image" src="https://github.com/user-attachments/assets/a717e6fc-18c5-4d7b-bcb6-f0017425ab6b" />
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/a717e6fc-18c5-4d7b-bcb6-f0017425ab6b" />
